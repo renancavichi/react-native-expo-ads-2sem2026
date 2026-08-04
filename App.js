@@ -7,9 +7,7 @@ export default function App() {
       <View style={styles.box}>
         <Image
           style={styles.tinyLogo}
-          source={{
-            uri: 'https://reactnative.dev/img/tiny_logo.png',
-          }}
+          source={'https://reactnative.dev/img/tiny_logo.png'}
         />
         <Text style={styles.textLogo}>APP Legal</Text>
       </View>
@@ -18,9 +16,7 @@ export default function App() {
       <View style={styles.cardUser}>
         <Image
           style={styles.userAvatar}
-          source={{
-            uri: 'https://reactnative.dev/img/tiny_logo.png',
-          }}
+          source={'https://reactnative.dev/img/tiny_logo.png'}
         />
         <View style={styles.userInfo}>
           <Text style={styles.userName}>John Doe</Text>
@@ -30,9 +26,7 @@ export default function App() {
       <View style={styles.cardUser}>
         <Image
           style={styles.userAvatar}
-          source={{
-            uri: 'https://reactnative.dev/img/tiny_logo.png',
-          }}
+          source={'https://reactnative.dev/img/tiny_logo.png'}
         />
         <View style={styles.userInfo}>
           <Text style={styles.userName}>John Doe</Text>
