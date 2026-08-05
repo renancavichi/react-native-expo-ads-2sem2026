@@ -1,7 +1,9 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Image } from 'react-native';
+import { StatusBar } from 'expo-status-bar'
+import { StyleSheet, Text, View, Image } from 'react-native'
+import FontAwesome5 from '@expo/vector-icons/FontAwesome5'
+import { Link } from 'expo-router'
 
-export default function App() {
+export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <View style={styles.box}>
@@ -9,7 +11,10 @@ export default function App() {
           style={styles.tinyLogo}
           source={'https://reactnative.dev/img/tiny_logo.png'}
         />
-        <Text style={styles.textLogo}>APP Legal</Text>
+        <Text style={styles.textLogo}>Home</Text>
+        <Link style={styles.iconUser} href="/contact">
+          <FontAwesome5  name="user-plus" size={24} color="#FFFFFF" />
+        </Link>
       </View>
       <View style={styles.box2}>
       {/* //criar um card de usuário com avatar, nome e email */}
@@ -99,5 +104,8 @@ const styles = StyleSheet.create({
   userEmail: {
     fontSize: 14,
     color: '#666',
+  },
+  iconUser:{
+    marginLeft: 'auto',
   }
 });

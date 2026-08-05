@@ -1,9 +1,13 @@
 {
   "expo": {
-    "name": "react-native-expo-ads-2sem2026",
+    "name": "Contatos",
     "slug": "react-native-expo-ads-2sem2026",
     "version": "1.0.0",
     "orientation": "portrait",
+    "scheme": "react-native-expo-ads-2sem2026",
+    "experiments": {
+      "typedRoutes": true
+    },
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
@@ -23,7 +27,11 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
