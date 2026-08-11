@@ -16,3 +16,4 @@ npx create-expo-app@latest --template
 ### Configuração do Expo Router
 
     - https://docs.expo.dev/router/installation/
+    - Etapas de 1 - 3 e 6
