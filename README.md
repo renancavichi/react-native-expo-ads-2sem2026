@@ -3,8 +3,9 @@
 - Qual a diferença entre os pacotes react, react-native e expo?
 - No Stylesheet do React Native tenho todas as propriedades do CSS disponível?
 - Todas as propriedades disponíveis no React Native são compatíveis com iOS e Android?
-- Como o Expo Router cria a navegação entre as telas do App? (file-based)
-- Quais os principais tipos de navegação?
+- Como o Expo Router cria a navegação entre as telas do App?
+- Quais os principais tipos de navegação do Expo Router? Stack, Tabs, Modal e Drawer
+- Posso Utilizar mais de um tipo de navegação no meu app?
 
 ### Instalação do Expo
 
