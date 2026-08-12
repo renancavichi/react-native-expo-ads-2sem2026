@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar'
-import { StyleSheet, Text, View, Image } from 'react-native'
+import { StyleSheet, Text, View, Image, Button } from 'react-native'
 import FontAwesome5 from '@expo/vector-icons/FontAwesome5'
 import { useRouter } from 'expo-router'
 
@@ -39,6 +39,7 @@ export default function ContactScreen() {
           <Text style={styles.userEmail}>john.doe@example.com</Text>
         </View>
       </View>
+      <Button title="Logout" onPress={() => router.replace('/')} />
       </View>
        <StatusBar style="auto" />
     </View>

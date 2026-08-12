@@ -18,3 +18,8 @@ npx create-expo-app@latest --template
 
     - https://docs.expo.dev/router/installation/
     - Etapas de 1 - 3 e 6
+
+### Atividade
+
+    - Criar uma navegação do tipo tab com 4 telas.
+    - Criar uma tela extra que permite ser acessada por uma tela das tabs e mantenha a navegação tabs visivel.
