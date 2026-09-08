@@ -2,10 +2,37 @@ import { StatusBar } from 'expo-status-bar'
 import { StyleSheet, Text, View, Image, Button } from 'react-native'
 import FontAwesome5 from '@expo/vector-icons/FontAwesome5'
 import { useRouter } from 'expo-router'
+import {useState, useEffect} from 'react'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 
 export default function ContactScreen() {
 
+  const [isLogged, setIsLogged] = useState(false)
+  const [user, setUser] = useState(null)
+
+  useEffect(() => {
+    const getIsLogged = async () => {
+      const value = await AsyncStorage.getItem('isLogged')
+      if (value === 'true'){
+        const userData = await AsyncStorage.getItem('user')
+        setUser(JSON.parse(userData))
+        setIsLogged(true)
+      } else {
+        setIsLogged(false)
+      }
+    }
+    getIsLogged()
+  }, [])
+
   const router = useRouter()
+
+  const handleLogout = async () => {
+    await AsyncStorage.removeItem('isLogged')
+    await AsyncStorage.removeItem('user')
+    setIsLogged(false)
+    setUser(null)
+    router.replace('/')
+  }
 
   return (
     <View style={styles.container}>
@@ -18,6 +45,7 @@ export default function ContactScreen() {
         <FontAwesome5 style={styles.iconHome} name="home" size={24} color="#FFF" onPress={() => router.push('/')} />
       </View>
       <View style={styles.box2}>
+      {isLogged && <Text style={styles.userName}>Bem-vindo, {user?.name}!</Text>}
       {/* //criar um card de usuário com avatar, nome e email */}
       <View style={styles.cardUser}>
         <Image
@@ -39,7 +67,8 @@ export default function ContactScreen() {
           <Text style={styles.userEmail}>john.doe@example.com</Text>
         </View>
       </View>
-      <Button title="Logout" onPress={() => router.replace('/')} />
+      {isLogged && <Text style={styles.userName}>Tela de Contato</Text>}
+      <Button title="Logout" onPress={handleLogout} />
       </View>
        <StatusBar style="auto" />
     </View>

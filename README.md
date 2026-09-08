@@ -6,6 +6,10 @@
 - Como o Expo Router cria a navegação entre as telas do App?
 - Quais os principais tipos de navegação do Expo Router? Stack, Tabs, Modal e Drawer
 - Posso Utilizar mais de um tipo de navegação no meu app?
+- Qual tipo de dados podem ser salvos no AsyncStorage?
+- Qual a difereça entre useState, Zustand e AsyncStorage?
+- Quais as principais funções do AsyncStorage?
+
 
 ### Instalação do Expo
 
