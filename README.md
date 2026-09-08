@@ -4,7 +4,7 @@
 - No Stylesheet do React Native tenho todas as propriedades do CSS disponível?
 - Todas as propriedades disponíveis no React Native são compatíveis com iOS e Android?
 - Como o Expo Router cria a navegação entre as telas do App?
-- Quais os principais tipos de navegação do Expo Router? Stack, Tabs, Modal e Drawer
+- Quais os principais tipos de navegação do Expo Router?
 - Posso Utilizar mais de um tipo de navegação no meu app?
 - Qual tipo de dados podem ser salvos no AsyncStorage?
 - Qual a difereça entre useState, Zustand e AsyncStorage?
@@ -44,8 +44,8 @@ Datas:
 
 - 08/09 (2 ou 3) - Emerson (Tamagui) - Arthur (Victory Native) - Muriel (NativeWind)
 - 22/09 (4) - João Gabriel (Expo Sensors: Acelerômetro, giroscópio) - Vitor Ramos (Expo Maps) - Vinícius (BarCode Scanner) - Robert (Maestro)
-- 29/09 (4) - Rafael (Reanimate) - Tulio (Local Storages MMKV e Expo SecureStore) - Lucas Alves (Autenticação com Biometria) - Kauan ()
-- 06/10 (4) - Leticia (Gráficos) - Felipe ()
+- 29/09 (4) - Rafael (Reanimate) - Tulio (Local Storages MMKV e Expo SecureStore) - Lucas Alves (Autenticação com Biometria) - Kauan (Moti)
+- 06/10 (4) - Leticia (Gráficos) - Felipe () - Vitor Oliveira (Gráficos)
 - 13/10 (4) 
 - 20/10 (4) - Kevin (Responsividade do App) - Ana Julia (Expo Video) - Angelo (AI SDK Vercel) - Murilo (React Native Paper UI)
 - 27/10 (4) - Hyan (Logar com Google / Github / Apple / LinkedIn / Facebook) - Maíra ()
@@ -57,7 +57,6 @@ Temas:
  - Mapas
  - Gráficos 
  - Testes - React Native Testing Library - Maestro 
- - Motion (Animações) - Moti
  - Usar Recursos Nativos do Celular (Acelerômetro, giroscópio)
  - React Native Paper UI
  - AI SDK Vercel
