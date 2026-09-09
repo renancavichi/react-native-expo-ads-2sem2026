@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar'
-import { StyleSheet, Text, View, Image } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
+import { Image } from 'expo-image'
 import FontAwesome5 from '@expo/vector-icons/FontAwesome5'
 import { Link } from 'expo-router'
 

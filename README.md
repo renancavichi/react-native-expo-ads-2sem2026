@@ -3,12 +3,20 @@
 - Qual a diferença entre os pacotes react, react-native e expo?
 - No Stylesheet do React Native tenho todas as propriedades do CSS disponível?
 - Todas as propriedades disponíveis no React Native são compatíveis com iOS e Android?
+- Qual a diferença do componente Image do React Native e do Expo? Qual o mais recomendado?
 - Como o Expo Router cria a navegação entre as telas do App?
 - Quais os principais tipos de navegação do Expo Router?
 - Posso Utilizar mais de um tipo de navegação no meu app?
 - Qual tipo de dados podem ser salvos no AsyncStorage?
 - Qual a difereça entre useState, Zustand e AsyncStorage?
 - Quais as principais funções do AsyncStorage?
+
+--- Apresentações
+
+- Que problema ela resolve?
+- Quais os principais recursos?
+- Tem alguma limitação?
+- Quais as principais diferenças entre recursos similares?
 
 
 ### Instalação do Expo
