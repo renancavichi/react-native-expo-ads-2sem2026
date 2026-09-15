@@ -50,11 +50,11 @@ Apresentações (Peso 3):
 
 Datas:
 
-- 08/09 (2 ou 3) - Emerson (Tamagui) - Arthur (Victory Native) - Muriel (NativeWind)
+- 08/09 (2 ou 3) - Arthur (Victory Native) - Muriel (NativeWind)
 - 22/09 (4) - João Gabriel (Expo Sensors: Acelerômetro, giroscópio) - Vitor Ramos (Expo Maps) - Vinícius (BarCode Scanner) - Robert (Maestro)
 - 29/09 (4) - Rafael (Reanimate) - Tulio (Local Storages MMKV e Expo SecureStore) - Lucas Alves (Autenticação com Biometria) - Kauan (Moti)
-- 06/10 (4) - Leticia (Gráficos) - Felipe () - Vitor Oliveira (Gráficos)
-- 13/10 (4) - David ()
+- 06/10 (4) - Leticia (Gráficos) - Felipe () - Vitor Oliveira (Gráficos) - Emerson (Tamagui)
+- 13/10 (4) - David () - João Alves (Background Tasks)
 - 20/10 (4) - Kevin (Responsividade do App) - Ana Julia (Expo Video) - Angelo (AI SDK Vercel) - Murilo (React Native Paper UI)
 - 27/10 (4) - Hyan (Logar com Google / Github / Apple / LinkedIn / Facebook) - Maíra ()
 - 10/11 (4) - Thiago Carvalho (Expo UI) - Eduarda (MapLibre)
