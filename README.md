@@ -52,11 +52,11 @@ Datas:
 
 - 08/09 (2 ou 3) - Arthur (Victory Native) - Muriel (NativeWind)
 - 22/09 (4) - João Gabriel (Expo Sensors: Acelerômetro, giroscópio) - Vitor Ramos (Expo Maps) - Vinícius (BarCode Scanner) - Robert (Maestro)
-- 29/09 (4) - Rafael (Reanimate) - Tulio (Local Storages MMKV e Expo SecureStore) - Lucas Alves (Autenticação com Biometria) - Kauan (Moti)
-- 06/10 (4) - Leticia (Gráficos) - Felipe () - Vitor Oliveira (Gráficos) - Emerson (Tamagui)
-- 13/10 (4) - David () - João Alves (Background Tasks)
+- 29/09 (4) - Rafael (Reanimate) - Tulio (Local Storages MMKV e Expo SecureStore) - Lucas Alves (Autenticação com Biometria)
+- 06/10 (4) - Letícia (Gráficos - Gifted Charts) - Felipe () - Vitor Oliveira (Gráficos) - Emerson (Tamagui)
+- 13/10 (4) - David () - João Alves (Background Tasks) - Kauan (Moti)
 - 20/10 (4) - Kevin (Responsividade do App) - Ana Julia (Expo Video) - Angelo (AI SDK Vercel) - Murilo (React Native Paper UI)
-- 27/10 (4) - Hyan (Logar com Google / Github / Apple / LinkedIn / Facebook) - Maíra ()
+- 27/10 (4) - Hyan (Logar com Google / Github / Apple / LinkedIn / Facebook) - Maíra (Expo ImagePicker)
 - 10/11 (4) - Thiago Carvalho (Expo UI) - Eduarda (MapLibre)
 - 17/11 (4) - Nicoli (Mapa de Calor) - Raissa (React Unity View)
 
@@ -65,7 +65,7 @@ Temas:
  - Mapas
  - Gráficos 
  - Testes - React Native Testing Library 
- - Usar Recursos Nativos do Celular (Acelerômetro, giroscópio)
+ - Usar Recursos Nativos do Celular (device motion, light sensor, sensor magnético)
  - React Native Paper UI
  - AI SDK Vercel
  - Skills para RN/Expo
