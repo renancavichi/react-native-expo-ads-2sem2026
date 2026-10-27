@@ -11,6 +11,10 @@
 - Qual a difereça entre useState, Zustand e AsyncStorage?
 - Quais as principais funções do AsyncStorage?
 
+Avaliação II 
+
+- ScrollView x Flatlist
+
 --- Apresentações
 
 - Que problema ela resolve?
@@ -54,11 +58,13 @@ Datas:
 - 22/09 (4) - João Gabriel (Expo Sensors: Acelerômetro, giroscópio) - Vitor Ramos (Expo Maps) - Vinícius (BarCode Scanner) - Robert (Maestro)
 - 29/09 (4) - Rafael (Reanimate) - Tulio (Local Storages MMKV e Expo SecureStore) - Lucas Alves (Autenticação com Biometria)
 - 06/10 (4) - Letícia (Gráficos - Gifted Charts) - Vitor Oliveira (Wagmi Charts) - Emerson (Tamagui)
-- 13/10 (4) - João Alves (Background Tasks) - Kauan (Moti) - 
-- 20/10 (4) - Kevin (Responsividade do App) - Ana Julia (Expo Video) - Angelo (AI SDK Vercel) - Murilo (React Native Paper UI)
-- 27/10 (4) - Hyan (Logar com Google / Github / Apple / LinkedIn / Facebook) - Maíra (Expo ImagePicker) - David (React Native Testing Library) - Matheus (RN Signature Canvas)
-- 10/11 (4) - Thiago Carvalho (Expo UI) - Eduarda (MapLibre) - Tiago Venâncio (Agent Toolkit) - Felipe (AI Expo Skills)
-- 17/11 (4) - Nicoli (Mapa de Calor) - Raissa (React Unity View)
+- 13/10 (4) - Kauan (Moti)
+- 20/10     - Semana de Tecnologia - Game Jam
+- 27/10 (4) - Kevin (Responsividade do App)  - Angelo (AI SDK Vercel) - Murilo (React Native Paper UI)
+- 03/10     - 
+- 10/11 (4) - Hyan (Logar com Google / Github / Apple / LinkedIn / Facebook) - Maíra (Expo ImagePicker) - David (React Native Testing Library) - Matheus (RN Signature Canvas)
+- 17/11 (4) - Thiago Carvalho (Expo UI) - Eduarda (MapLibre) - Tiago Venâncio (Agent Toolkit) - Felipe (AI Expo Skills)
+- 24/11 (4) - Nicoli (Mapa de Calor) - Raissa (React Unity View) - João Alves (Background Tasks) - Ana Julia (Expo Video)
 
 Temas:
 
