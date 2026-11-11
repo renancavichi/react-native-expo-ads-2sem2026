@@ -43,7 +43,9 @@ npx create-expo-app@latest --template
 ### Avaliações
 
 - 15/09 Avaliação I (peso 5)
-- 24/11 Avaliação II (peso 2)
+- 27/11 Avaliação II (peso 2)
+
+- 15/12 Substitutiva (Recuperação)
 
 Apresentações (Peso 3):
 
