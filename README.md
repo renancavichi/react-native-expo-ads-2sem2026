@@ -65,8 +65,8 @@ Datas:
 - 27/10 (4) - Kevin (Responsividade do App)  - Angelo (AI SDK Vercel) - Murilo (React Native Paper UI)
 - 03/10     - 
 - 10/11 (4) - Hyan (Logar com Google / Github / Apple / LinkedIn / Facebook) - Maíra (Expo ImagePicker) - David (React Native Testing Library) - Matheus (RN Signature Canvas)
-- 17/11 (4) - Thiago Carvalho (Expo UI) - Eduarda (MapLibre) - Tiago Venâncio (Agent Toolkit) - Felipe (AI Expo Skills)
-- 24/11 (4) - Nicoli (Mapa de Calor) - Raissa (React Unity View) - João Alves (Background Tasks) - Ana Julia (Expo Video)
+- 17/11 (4) - Thiago Carvalho (Expo UI) - Eduarda (MapLibre) - Felipe (AI Expo Skills)
+- 24/11 (4) - Nicoli (Mapa de Calor) - Raissa (React Unity View) - João Alves (Background Tasks) - Ana Julia (Expo Video) - Tiago Venâncio (Agent Toolkit) 
 
 Temas:
 
